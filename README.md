@@ -6,6 +6,15 @@
 
 Book Doctor is a MERN Stack web application that allows patients to register, log in, search for doctors, and book appointments online. The application also provides an admin dashboard where administrators can manage doctors and appointments.
 
+## Demo Video
+
+Google Drive Link:
+https://drive.google.com/file/d/1TcBhPWstqZOjbkJn7t8Lwa6w7AYbLWor/view?usp=sharing
+
+## Project Documentation
+
+The complete project documentation is available in the *Mern Phase Wise* folder.
+
 ## Technologies Used
 
 - React.js
@@ -30,10 +39,11 @@ Book Doctor is a MERN Stack web application that allows patients to register, lo
 
 ## Project Structure
 
-
+text
 BookDoctorProject/
 ├── frontend/
 ├── backend/
+├── Mern Phase Wise/
 ├── README.md
 └── .gitignore
 
@@ -53,7 +63,7 @@ npm run dev
 bash
 cd frontend
 npm install
-npm start
+npm run dev
 
 
 ## Author
